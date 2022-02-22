@@ -1,0 +1,5 @@
+homepage: "http://www.analytics-engineers.com"
+versions:
+  # Latest version
+  - sha: xxx
+    changeNotes: Initial Version
